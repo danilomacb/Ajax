@@ -1,1 +1,1 @@
-Repositorio criado para salvar as aulas de Ajax do curso Wordpress do zero ao profissional.
+Repositorio criado para salvar as aulas de jQuery com Ajax do curso Wordpress do zero ao profissional.
