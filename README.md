@@ -1,1 +1,1 @@
-# Ajax
+Repositorio criado para salvar as aulas de Ajax do curso Wordpress do zero ao profissional.
